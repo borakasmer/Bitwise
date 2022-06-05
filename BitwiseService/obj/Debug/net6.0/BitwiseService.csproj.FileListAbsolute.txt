@@ -1,0 +1,17 @@
+C:\Users\Bora Kasmer\source\repos\BitwiseDealers\BitwiseService\bin\Debug\net6.0\BitwiseService.deps.json
+C:\Users\Bora Kasmer\source\repos\BitwiseDealers\BitwiseService\bin\Debug\net6.0\BitwiseService.dll
+C:\Users\Bora Kasmer\source\repos\BitwiseDealers\BitwiseService\bin\Debug\net6.0\BitwiseService.pdb
+C:\Users\Bora Kasmer\source\repos\BitwiseDealers\BitwiseService\bin\Debug\net6.0\Core.dll
+C:\Users\Bora Kasmer\source\repos\BitwiseDealers\BitwiseService\bin\Debug\net6.0\Core.pdb
+C:\Users\Bora Kasmer\source\repos\BitwiseDealers\BitwiseService\obj\Debug\net6.0\BitwiseService.csproj.AssemblyReference.cache
+C:\Users\Bora Kasmer\source\repos\BitwiseDealers\BitwiseService\obj\Debug\net6.0\BitwiseService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bora Kasmer\source\repos\BitwiseDealers\BitwiseService\obj\Debug\net6.0\BitwiseService.AssemblyInfoInputs.cache
+C:\Users\Bora Kasmer\source\repos\BitwiseDealers\BitwiseService\obj\Debug\net6.0\BitwiseService.AssemblyInfo.cs
+C:\Users\Bora Kasmer\source\repos\BitwiseDealers\BitwiseService\obj\Debug\net6.0\BitwiseService.csproj.CoreCompileInputs.cache
+C:\Users\Bora Kasmer\source\repos\BitwiseDealers\BitwiseService\obj\Debug\net6.0\BitwiseService.csproj.CopyComplete
+C:\Users\Bora Kasmer\source\repos\BitwiseDealers\BitwiseService\obj\Debug\net6.0\BitwiseService.dll
+C:\Users\Bora Kasmer\source\repos\BitwiseDealers\BitwiseService\obj\Debug\net6.0\refint\BitwiseService.dll
+C:\Users\Bora Kasmer\source\repos\BitwiseDealers\BitwiseService\obj\Debug\net6.0\BitwiseService.pdb
+C:\Users\Bora Kasmer\source\repos\BitwiseDealers\BitwiseService\obj\Debug\net6.0\ref\BitwiseService.dll
+C:\Users\Bora Kasmer\source\repos\BitwiseDealers\BitwiseService\bin\Debug\net6.0\DB.dll
+C:\Users\Bora Kasmer\source\repos\BitwiseDealers\BitwiseService\bin\Debug\net6.0\DB.pdb

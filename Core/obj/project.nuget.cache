@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "jRm4N4Futd6+LE12Q3c2YgK0V2mLQM/V2f72E8XLvA9tSes6+dEVg4RdpkwgmHcShnjaLDRSl2hRlB2y+RJP/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bora Kasmer\\source\\repos\\BitwiseDealers\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bora Kasmer\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Bora Kasmer\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Bora Kasmer\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Bora Kasmer\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Bora Kasmer\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Bora Kasmer\\.nuget\\packages\\servicestack.common\\6.1.0\\servicestack.common.6.1.0.nupkg.sha512",
+    "C:\\Users\\Bora Kasmer\\.nuget\\packages\\servicestack.interfaces\\6.1.0\\servicestack.interfaces.6.1.0.nupkg.sha512",
+    "C:\\Users\\Bora Kasmer\\.nuget\\packages\\servicestack.redis\\6.1.0\\servicestack.redis.6.1.0.nupkg.sha512",
+    "C:\\Users\\Bora Kasmer\\.nuget\\packages\\servicestack.text\\6.1.0\\servicestack.text.6.1.0.nupkg.sha512",
+    "C:\\Users\\Bora Kasmer\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Bora Kasmer\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
