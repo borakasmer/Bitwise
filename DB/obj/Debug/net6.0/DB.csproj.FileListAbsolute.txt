@@ -1,0 +1,14 @@
+C:\Users\Bora Kasmer\source\repos\BitwiseDealers\db\bin\Debug\net6.0\DB.deps.json
+C:\Users\Bora Kasmer\source\repos\BitwiseDealers\db\bin\Debug\net6.0\DB.dll
+C:\Users\Bora Kasmer\source\repos\BitwiseDealers\db\bin\Debug\net6.0\DB.pdb
+C:\Users\Bora Kasmer\source\repos\BitwiseDealers\db\obj\Debug\net6.0\DB.csproj.AssemblyReference.cache
+C:\Users\Bora Kasmer\source\repos\BitwiseDealers\db\obj\Debug\net6.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bora Kasmer\source\repos\BitwiseDealers\db\obj\Debug\net6.0\DB.AssemblyInfoInputs.cache
+C:\Users\Bora Kasmer\source\repos\BitwiseDealers\db\obj\Debug\net6.0\DB.AssemblyInfo.cs
+C:\Users\Bora Kasmer\source\repos\BitwiseDealers\db\obj\Debug\net6.0\DB.csproj.CoreCompileInputs.cache
+C:\Users\Bora Kasmer\source\repos\BitwiseDealers\db\obj\Debug\net6.0\DB.dll
+C:\Users\Bora Kasmer\source\repos\BitwiseDealers\db\obj\Debug\net6.0\refint\DB.dll
+C:\Users\Bora Kasmer\source\repos\BitwiseDealers\db\obj\Debug\net6.0\DB.pdb
+C:\Users\Bora Kasmer\source\repos\BitwiseDealers\db\obj\Debug\net6.0\ref\DB.dll
+C:\Users\Bora Kasmer\source\repos\BitwiseDealers\DB\bin\Debug\net6.0\DB.runtimeconfig.json
+C:\Users\Bora Kasmer\source\repos\BitwiseDealers\DB\obj\Debug\net6.0\DB.genruntimeconfig.cache
